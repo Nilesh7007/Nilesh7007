@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://nilesh7007.github.io/" target="blank"><img align="center" src="https://www.google.com/search?q=portfolio+icon&rlz=1C5CHFA_enIN1052IN1052&oq=port&aqs=chrome.0.69i59j69i57j69i64j0i131i433i512l5.1534j0j15&sourceid=chrome&ie=UTF-8#imgrc=EEu2ZzJoi04eCM" alt="nilesh khade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nilesh khade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh khade" height="30" width="40" /></a>
 </p>
 
