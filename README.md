@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nilesh7007&label=Profile%20views&color=0e75b6&style=flat" alt="Nilesh7007" /> </p>
 
-- 🌱 I’m currently learning **Web Devlopment**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **HTML | CSS | JavaScript | NodeJs | ExpressJs | MongoDB**
 
@@ -15,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://Nilesh7007.github.io" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=LoyAjcvVKv1K&format=png" alt="Nilesh Khade" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nilesh khade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh khade" height="30" width="40" /></a>
+    [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,github,netlify,vscode,mysql,postman,ts,redis,aws,react,replit,regex,sequelize,git)](#)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
